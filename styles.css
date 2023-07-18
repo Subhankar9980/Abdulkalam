@@ -1,4 +1,4 @@
-body {
+backgrounbody {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
@@ -49,9 +49,8 @@ footer {
     }
 }
 h2{ 
-  color: red;
-  background-color:grey;
+  color: black;
   border: 2px solid black;
   border-radius: 10px;
-  text-align:  center;
+  text-align: center;
 }
